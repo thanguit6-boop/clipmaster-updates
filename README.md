@@ -37,7 +37,7 @@
 
 ## 🔄 Cập nhật mới
 
-### 🆕 Version 1.0.0
+### 🆕 Version 5.1.0
 
 * Thêm chức năng **chèn ảnh vào video**
 * Nâng cấp hệ thống **ghép chữ nhiều dòng**
