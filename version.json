@@ -2,13 +2,16 @@
   "latest": "5.1.0",
   "versions": [
     {
-  "version": "5.1.0",
-  "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.0/ClipmasterSetup_v5.1.0.exe"
+      "version": "5.1.0",
+      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.0/ClipmasterSetup_v5.1.0.exe",
+      "video": "https://www.youtube.com/watch?v=abc123",
+      "note": "Bản mới nhất"
     },
     {
       "version": "5.0.0",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.0.0/ClipmasterSetup_v5.0.0.exe",
-      "type": "Cũ"
+      "type": "Cũ",
+      "video": "https://www.youtube.com/watch?v=xyz456"
     }
   ]
 }
