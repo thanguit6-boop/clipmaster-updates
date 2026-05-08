@@ -1,9 +1,9 @@
 {
-  "latest": "5.1.6",
+  "latest": "5.1.5",
 
   "versions": [
     {
-      "version": "5.1.6",
+      "version": "5.1.5",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/ClipmasterSetup_v5.1.5.exe",
       "note": "Latest"
     }
