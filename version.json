@@ -1,18 +1,11 @@
 {
-  "latest": "7.1.5",
+  "latest": "5.2.5",
 
   "versions": [
     {
-      "version": "7.1.5",
-      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/ClipmasterSetup_v5.1.5.exe",
-      "note": "🚀 Bản cập nhật lớn mới nhất\n\n• Tăng tốc xử lý video và OCR\n• Sửa lỗi crash trên Windows 11\n• Cải thiện độ ổn định khi chạy nhiều điện thoại",
-      "video": ""
-    },
-
-    {
       "version": "5.2.5",
-      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v6.0.0/ClipmasterSetup_v6.0.0.exe",
-      "note": "🔧 Bản ổn định trước đó\n\n• Sửa lỗi đăng nhập TikTok\n• Cải thiện tốc độ OCR\n• Fix lỗi mất preview sau khi pause/resume",
+      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.2.5/ClipmasterSetup_v5.2.5.exe",
+      "note": "🚀 Bản cập nhật tối ưu mới\n\n• Tăng tốc xử lý video và OCR\n• Sửa lỗi crash trên Windows 11\n• Cải thiện độ ổn định khi chạy nhiều điện thoại\n• Tối ưu RAM và CPU khi workflow hoạt động lâu\n• Fix lỗi preview bị đứng ngẫu nhiên\n• Nâng cấp hệ thống Quick Update mới",
       "video": ""
     }
   ],
@@ -20,7 +13,7 @@
   "patches": {
     "5": {
       "to": "5.2.5",
-      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/patch_major5_to_5.1.5.zip",
+      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.2.5/patch_major5_to_5.2.5.zip",
       "sha256": "1fc346ac3589b4e484a221bed52c5a5130dd871f98d9f28237649f7ba4fb0488"
     }
   }
