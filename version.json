@@ -16,7 +16,7 @@
 
   "patches": {
     "5": {
-      "to": "5.1.5",
+      "to": "5.2.5",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/patch_major5_to_5.1.5.zip",
       "sha256": "1fc346ac3589b4e484a221bed52c5a5130dd871f98d9f28237649f7ba4fb0488"
     }
