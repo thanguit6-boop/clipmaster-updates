@@ -6,27 +6,19 @@
       "version": "5.1.5",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/ClipmasterSetup_v5.1.5.exe",
       "note": "Latest"
+    },
+    {
+      "version": "6.0.0",
+      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v6.0.0/ClipmasterSetup_v6.0.0.exe",
+      "note": "Test full update"
     }
   ],
 
   "patches": {
-    "5.1.2": {
-      "to": "5.1.3",
-      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/patch_5.1.3.zip",
-      "sha256": "TEST_SHA_513"
-    },
-
-    "5.1.3": {
-      "to": "5.1.4",
-      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/patch_5.1.4.zip",
-      "sha256": "TEST_SHA_514"
-    },
-
-    "5.1.4": {
+    "5": {
       "to": "5.1.5",
-      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/patch_5.1.5.zip",
+      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/patch_major5_to_5.1.5.zip",
       "sha256": "1fc346ac3589b4e484a221bed52c5a5130dd871f98d9f28237649f7ba4fb0488"
     }
   }
 }
-
