@@ -1,14 +1,14 @@
 {
-  "latest": "5.2.5",
+  "latest": "7.1.5",
 
   "versions": [
     {
-      "version": "5.2.5",
+      "version": "7.1.5",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.5/ClipmasterSetup_v5.1.5.exe",
       "note": "Latest"
     },
     {
-      "version": "6.0.0",
+      "version": "5.2.5",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v6.0.0/ClipmasterSetup_v6.0.0.exe",
       "note": "Test full update"
     }
