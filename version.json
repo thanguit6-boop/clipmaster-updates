@@ -1,9 +1,9 @@
 {
-  "latest": "5.1.6",
+  "latest": "6.1.6",
 
   "versions": [
     {
-      "version": "5.1.6",
+      "version": "6.1.6",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v5.1.6/ClipMasterTP_Setup_v5.1.6.exe",
 
       "release_api": "https://api.github.com/repos/thanguit6-boop/clipmaster-updates/releases/tags/v5.1.6",
