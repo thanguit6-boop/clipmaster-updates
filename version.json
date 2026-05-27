@@ -1,15 +1,26 @@
 {
-  "latest": "6.0.0", 
+  "latest": "6.0.1",
 
   "versions": [
     {
-      "version": "6.0.0", 
+      "version": "6.0.1",
+      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v6.0.1/ClipMasterTP_Setup_v6.0.1.exe",
+
+      "release_api": "https://api.github.com/repos/thanguit6-boop/clipmaster-updates/releases/tags/v6.0.1",
+
+      "sha256": "568985d7659049d3b5fe1f3acaff51bce158c222a2cbc5b574ae1429c34d6f89",
+      "video": "",
+      "type": "Latest"
+    },
+
+    {
+      "version": "6.0.0",
       "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v6.0.0/ClipMasterTP_Setup_v6.0.0.exe",
 
       "release_api": "https://api.github.com/repos/thanguit6-boop/clipmaster-updates/releases/tags/v6.0.0",
 
       "video": "",
-      "type": "Latest"
+      "type": "Stable"
     },
 
     {
@@ -43,5 +54,12 @@
     }
   ],
 
-  "patches": {}
+  "patches": {
+    "6.0.0": {
+      "to": "6.0.1",
+      "url": "https://github.com/thanguit6-boop/clipmaster-updates/releases/download/v6.0.1/patch_major6_to_6.0.1.zip",
+      "sha256": "9a2e95a353f58f07ac886c80b39458235f389713431fdcbddb2af8cbac637850",
+      "type": "QuickUpdate"
+    }
+  }
 }
